@@ -2,7 +2,7 @@
 
 This repository contains code to supplement the article <a href = "https://arxiv.org/pdf/2010.05672.pdf"> Non-genetic variability in microbial populations: survival strategy or nuisance?</a> by Levien, Min, Kondev and Amir. 
 
-The code is organized in python notebooks which can be run within the browser via <a href="https://colab.research.google.com/"> google colab </a> or downloaded and run locally using <a href = "https://jupyter.org/"> Jupyter </a>. The notebooks are as follows: 
+The code is organized in python notebooks which can be run within the browser via <a href="https://colab.research.google.com/"> google colab </a> or downloaded and run locally using <a href = "https://jupyter.org/"> Jupyter</a>. The notebooks are as follows: 
 
 | Notebook | Description  |
 |---|---|
