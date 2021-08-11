@@ -7,7 +7,7 @@ The code is organized in python notebooks which can be run within the browser vi
 | Notebook | Description  |
 |---|---|
 |<a href = "https://github.com/elevien/phenotypic_variability_review/blob/main/bet_hedging_kelly.ipynb"> kelly bet hedging </a> | Simulates Kelly's model of bet-hedging as described in Section 2.1 and reproduces Figure 2 (A).|
-|<a href = "https://github.com/elevien/phenotypic_variability_review/blob/main/desert_annuals.ipynb"> desert annuals </a> | Plots the data ref [23] and reproduces Figure 2 (C)|
+|<a href = "https://github.com/elevien/phenotypic_variability_review/blob/main/desert_annuals.ipynb"> desert annuals </a> | Plots the data from ref [23] and reproduces Figure 2 (C)|
 |<a href = "https://github.com/elevien/phenotypic_variability_review/blob/main/phenotypic_switching.ipynb"> phenotypic switching </a>| Simulates a simple model of phenotypic describes in Section 2.2 and reproduces Figure 3 (B).|
 |<a href = "https://github.com/elevien/phenotypic_variability_review/blob/main/growth_rate_variation.ipynb"> growth rate variation </a>| Simulates different models of single-cell growth rate variation and reproduces Figure 4 (A).|
 
